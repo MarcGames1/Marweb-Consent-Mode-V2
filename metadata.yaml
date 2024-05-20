@@ -1,5 +1,5 @@
 homepage: "https://marweb.ro/"
-documentation: "https://marweb.ro/"
+documentation: "https://github.com/MarcGames1/Marweb-Consent-Mode-V2"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial release.
+  - sha: b048bec9cd89760f6623d289a66c394e41f934b8
+    changeNotes: updated sha and documentation link

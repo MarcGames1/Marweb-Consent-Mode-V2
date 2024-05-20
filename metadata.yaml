@@ -2,4 +2,4 @@ homepage: "https://marweb.ro/"
 documentation: "https://github.com/MarcGames1/Marweb-Consent-Mode-V2"
 versions:
   - sha: b048bec9cd89760f6623d289a66c394e41f934b8
-    changeNotes: updated sha and documentation link
+    changeNotes: renamed template fie Marweb Consent Mode V2.tpl to template.tpl
